@@ -5,15 +5,15 @@
     "passes": 7,
     "pending": 0,
     "failures": 0,
-    "start": "2019-01-07T03:08:09.512Z",
-    "end": "2019-01-07T03:08:10.141Z",
-    "duration": 629
+    "start": "2019-01-07T03:59:05.990Z",
+    "end": "2019-01-07T03:59:07.776Z",
+    "duration": 1786
   },
   "tests": [
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,21 +41,21 @@
     {
       "title": "returns list of objects with appropriate first and last names",
       "fullTitle": "index.js nameToAttributes() returns list of objects with appropriate first and last names",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js attributesToPhrase() uses the Array map method",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "converts to list saying the name and where each individual is from",
       "fullTitle": "index.js attributesToPhrase() converts to list saying the name and where each individual is from",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -66,7 +66,7 @@
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,21 +94,21 @@
     {
       "title": "returns list of objects with appropriate first and last names",
       "fullTitle": "index.js nameToAttributes() returns list of objects with appropriate first and last names",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js attributesToPhrase() uses the Array map method",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "converts to list saying the name and where each individual is from",
       "fullTitle": "index.js attributesToPhrase() converts to list saying the name and where each individual is from",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }

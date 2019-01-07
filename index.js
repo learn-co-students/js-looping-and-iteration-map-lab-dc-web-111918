@@ -13,8 +13,8 @@ function nameToAttributes(driversArray) {
   });
 }
 
-function attributesToPhrase(driversObj) {
-  return driversObj.map (function(driver) {
+function attributesToPhrase(driversArray) {
+  return driversArray.map (function(driver) {
     return `${driver.name} is from ${driver.hometown}`;
   });
 }

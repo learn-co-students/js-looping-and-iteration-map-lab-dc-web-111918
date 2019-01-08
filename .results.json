@@ -5,15 +5,15 @@
     "passes": 7,
     "pending": 0,
     "failures": 0,
-    "start": "2019-01-08T02:13:25.399Z",
-    "end": "2019-01-08T02:13:25.919Z",
-    "duration": 520
+    "start": "2019-01-08T02:17:20.230Z",
+    "end": "2019-01-08T02:17:20.767Z",
+    "duration": 537
   },
   "tests": [
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js attributesToPhrase() uses the Array map method",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,7 +66,7 @@
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js lowerCaseDrivers() uses the Array map method",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,7 +101,7 @@
     {
       "title": "uses the Array map method",
       "fullTitle": "index.js attributesToPhrase() uses the Array map method",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
